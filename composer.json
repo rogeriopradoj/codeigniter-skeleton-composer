@@ -1,0 +1,14 @@
+{
+    "name": "rogeriopradoj/codeigniter-skeleton",
+    "description": "Skeleton application for codeigniter",
+    "require": {
+        "rogeriopradoj/codeigniter": "2.1.3"
+    },
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Rogerio Prado de Jesus",
+            "email": "rogeriopradoj@gmail.com"
+        }
+    ]
+}

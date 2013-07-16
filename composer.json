@@ -2,7 +2,7 @@
     "name": "rogeriopradoj/codeigniter-skeleton",
     "description": "Skeleton application for codeigniter",
     "require": {
-        "rogeriopradoj/codeigniter": "2.1.3"
+        "rogeriopradoj/codeigniter": "2.1.4"
     },
     "license": "OSL-3.0",
     "authors": [

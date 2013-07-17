@@ -30,7 +30,7 @@ That's all!
 Shoulders of giants 
 -------------------
 
-[<img src="http://ellislab.com/_user_guide_src_ci/images/ci_logo_flame.jpg" alt="CodeIgniter" style="height: 100%;" />](https://packagist.org/packages/rogeriopradoj/codeigniter) [https://packagist.org/packages/rogeriopradoj/codeigniter](https://packagist.org/packages/rogeriopradoj/codeigniter)
+[<img src="https://raw.github.com/EllisLab/CodeIgniter/develop/user_guide_src/source/images/ci_logo_flame.jpg" alt="CodeIgniter" style="height: 100%;" />](https://packagist.org/packages/rogeriopradoj/codeigniter) [https://packagist.org/packages/rogeriopradoj/codeigniter](https://packagist.org/packages/rogeriopradoj/codeigniter)
 
 Total: [![Total Downloads](https://poser.pugx.org/rogeriopradoj/codeigniter/downloads.png)](https://packagist.org/packages/rogeriopradoj/codeigniter)
 This month: [![Montly Downloads](https://poser.pugx.org/rogeriopradoj/codeigniter/d/monthly.png)](https://packagist.org/packages/rogeriopradoj/codeigniter)
